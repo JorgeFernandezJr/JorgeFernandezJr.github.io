@@ -2,7 +2,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title> Computer Parts </title>
 <style>
 body{ margin:0;
-  background-color: #ffffff ;
+  background-color: #3ba82c ;
   color: #000;
   font-family: system-ui, sans-serif;
   font-size: 14px;
