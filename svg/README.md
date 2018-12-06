@@ -27,7 +27,7 @@ body{
     }
 .header {
     height: 50px;
-    background: #000000;
+    background: #ffffff;
 	font-family: system-ui, sans-serif;
     font-size:48px;
      color:#59dd1d;
