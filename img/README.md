@@ -35,7 +35,7 @@ TYPE DATA BELOW THE ABOVE TAGS
 SAVE THE PAGE SOURCE OF THIS WEB PAGE AND EDIT IT.
 COMPUTER BIB - F LAST
 * * * * * * * * * * * * * * * * * * * * * * * * * *
-$1000 Computer
+$1000 Computer Newegg.com
 $ 95.78 ASUS TUF B350M-PLUS GAMING AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard
 $ 159.99 AMD RYZEN 5 1600 6-Core 3.2 GHz (3.6 GHz Turbo)
 $ 134.99 WD Blue 3D NAND 1TB PC SSD - SATA III 6 Gb/s M.2 2280 Solid State Drive
