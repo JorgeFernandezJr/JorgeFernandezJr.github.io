@@ -37,7 +37,7 @@ COMPUTER BIB - F LAST
 * * * * * * * * * * * * * * * * * * * * * * * * * *
 $1000 Computer Newegg.com
 $ 95.78 ASUS TUF B350M-PLUS GAMING AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard
-$ 159.99 AMD RYZEN 5 1600 6-Core 3.2 GHz (3.6 GHz Turbo)
+$ 159.99 AMD RYZEN 5 2400G Quad-Core 3.6 GHz (3.9 GHz Turbo) Socket AM4 65W YD2400C5FBBOX Desktop Processor 
 $ 134.99 WD Blue 3D NAND 1TB PC SSD - SATA III 6 Gb/s M.2 2280 Solid State Drive
 $ 124.00 WD Red 4TB NAS Hard Disk Drive - 5400 RPM Class SATA 6Gb/s 64MB Cache 3.5 Inch - WD40EFRX 
 $ 54.99 Corsair Certified CP-9020053-NA RM Series RM550 - 550 Watt 80 PLUS Gold
