@@ -60,12 +60,9 @@ text-decoration: none;
 </head>
 <body>
 <div class="header">
-00000001  10110111  00000001  00000011
+Index of SVG
 </div>
-<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/folder.gif" alt="[DIR]"> <a href="code/">code/</a>                   2018-11-30 12:38    -   
-<img src="/icons/folder.gif" alt="[DIR]"> <a href="img/">img/</a>                    2018-11-30 09:22    -   
-<img src="/icons/folder.gif" alt="[DIR]"> <a href="logs/">logs/</a>                   2018-10-09 09:52    -   
-<img src="/icons/folder.gif" alt="[DIR]"> <a href="svg/">svg/</a>                    2018-12-03 09:06    -   
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/folder.gif" alt="[DIR]"> <a href="code/">code/</a>                   2018-11-30 12:38    -    
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="asus-amd.png">asus-amd.png</a>            2018-11-30 09:21  4.8K  
 <img src="/icons/text.gif" alt="[TXT]"> <a href="computerpartgrid.html">computerpartgrid.html</a>   2018-11-30 09:23  567   
 <img src="/icons/text.gif" alt="[TXT]"> <a href="computerparts.html">computerparts.html</a>      2018-12-04 10:07  1.9K  
@@ -73,12 +70,6 @@ text-decoration: none;
 <img src="/icons/text.gif" alt="[TXT]"> <a href="url.html">url.html</a>                2018-10-11 09:12  1.2K  
 <hr></pre>
 
-<div class="footer">
-Favorite Songs
-<center>
-    <img style="position:absolute;z-index:-1;height:50%;height:50%;" src="img/S3RL.png">
-<a href ="https://www.youtube.com/watch?v=B7xai5u_tnk" target = "_blank">TheFatRat: Mondoy (ft Laura Brehm)/</a>
-<a href = "https://www.youtube.com/watch?v=WSeNSzJ2-Jw" target = "_blank">Scary Monsters and Nice Spirits/</a>
 
 </div>
 </body>
