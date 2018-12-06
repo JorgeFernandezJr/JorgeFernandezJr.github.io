@@ -10,7 +10,7 @@
 
 
 
-<head><title>00000001  10110111  00000001 00000011</title>
+<head><title>Index of SVG</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 html, body, #header {
