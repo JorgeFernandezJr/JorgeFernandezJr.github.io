@@ -30,7 +30,7 @@ body{
     background: #000000;
 	font-family: system-ui, sans-serif;
     font-size:48px;
-     color:#000000;
+     color:#59dd1d;
 }
 
 
