@@ -26,7 +26,7 @@
 
       <body>
 <div id="bg">
-<img style="display:block;" src="img/mtc.jpg" />
+<img style="display:block;" src="img/kaneki.jpg" />
 </div>
 <div id="content">
 
