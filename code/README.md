@@ -86,13 +86,6 @@ text-decoration: none;
 Index of SVG
 </div>
 <pre><img src="/icons/blank.gif" alt="Icon " /> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr /><img src="/icons/folder.gif" alt="[DIR]" /> <a href="code/">code/</a>                   2018-11-30 12:38    -    
-<img src="/icons/image2.gif" alt="[IMG]" /> <a href="asus-amd.png">asus-amd.png</a>            2018-11-30 09:21  4.8K  
-<img src="/icons/text.gif" alt="[TXT]" /> <a href="computerpartgrid.html">computerpartgrid.html</a>   2018-11-30 09:23  567   
-<img src="/icons/text.gif" alt="[TXT]" /> <a href="computerparts.html">computerparts.html</a>      2018-12-04 10:07  1.9K  
-<img src="/icons/text.gif" alt="[TXT]" /> <a href="htaccess-rename.sh">htaccess-rename.sh</a>      2018-10-10 08:56  183   
-<img src="/icons/text.gif" alt="[TXT]" /> <a href="url.html">url.html</a>                2018-10-11 09:12  1.2K  
-<hr /></pre>
-
 
 
 </body>
