@@ -87,15 +87,4 @@ Index of SVG
 </div>
 <pre><img src="/icons/blank.gif" alt="Icon " /> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr /><img src="/icons/folder.gif" alt="[DIR]" /> <a href="code/">code/</a>                   2018-11-30 12:38    -    
 
-
-</body>
-
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
 </html>
