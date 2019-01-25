@@ -1,5 +1,5 @@
 <a href="?C=N;O=D">Name</a>
-alt="[PARENTDIR]"> <a href="/">Parent Directory</a>                                 -   
+<a href="/">Parent Directory</a>                                 -   
 <img src="/icons/sound2.gif" alt="[SND]"> <a href="beethoven.mp3">beethoven.mp3</a>               2019-01-24 10:14   11M  
 <img src="/icons/sound2.gif" alt="[SND]"> <a href="casateconmigo.MP3">casateconmigo.MP3</a>           2019-01-24 08:55  3.2M  
 <img src="/icons/sound2.gif" alt="[SND]"> <a href="perdimos.mp3">perdimos.mp3</a>                2019-01-24 09:32  3.9M  
