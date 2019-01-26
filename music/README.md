@@ -1,6 +1,6 @@
 <body>
   <div id="bg">
-   <img style="display:block;" src="/img/nogame_nolife.jpg">
+   <img style="display:block;" src="/img/nogame_nolife.jpg.png">
 </div>
 <div id="content">
 
