@@ -8,3 +8,14 @@
 <alt="[SND]"> <a href="WisinYandel.mp3">WisinYandel.mp3</a>             2019-01-24 09:49  4.8M  
 <alt="[SND]"> <a href="Yandel-Nunca_Me_Olvides.mp3">Yandel-Nunca_Me_Olvides.mp3</a> 2019-01-24 09:53  3.7M  
 <hr>
+
+
+</style>
+</head>
+<body>
+  <div id="bg">
+   <img style="display:block;" src="/nogame_nolife.jpg.png">
+</div>
+<div id="content">
+ 
+</div>
