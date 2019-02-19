@@ -1,4 +1,3 @@
-</style>
 </head>
 <body>
   <div id="bg">
