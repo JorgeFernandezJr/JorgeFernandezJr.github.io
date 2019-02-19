@@ -1,3 +1,11 @@
+</style>
+</head>
+<body>
+  <div id="bg">
+   <img style="display:block;" src="/img/kaneki.jpg">
+</div>
+<div id="content">
+
 <a href="?C=N;O=D">Name</a>
 <a href="/">Parent Directory</a>                                 -   
 <alt="[SND]"> <a href="beethoven.mp3">beethoven.mp3</a>               2019-01-24 10:14   11M  
