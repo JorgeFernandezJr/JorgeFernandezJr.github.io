@@ -74,4 +74,4 @@ text-decoration: none;
 Index of Code
 </div>
     
-<img src="/icons/folder.gif" alt="[DIR]" /> <a href="quadratic_lamda.py/">code1/</a>
+<img src="/icons/folder.gif" alt="[DIR]" /> <a href="quadratic_lamda.py/">/quadratic_lamda.py</a>
