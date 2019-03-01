@@ -4,18 +4,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>JorgeFernandezJr.github.io</title>
-<meta name="generator" content="Jekyll v3.7.4" />
-<meta property="og:title" content="JorgeFernandezJr.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://jorgefernandezjr.github.io/svg/" />
-<meta property="og:url" content="https://jorgefernandezjr.github.io/svg/" />
-<meta property="og:site_name" content="JorgeFernandezJr.github.io" />
-<script type="application/ld+json">
-{"headline":"JorgeFernandezJr.github.io","@type":"WebPage","url":"https://jorgefernandezjr.github.io/svg/","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
     <link rel="stylesheet" href="/assets/css/style.css?v=2e79d8c7fa7b36bcb04b5668a5c5c20b68effecf">
   </head>
   <body>
