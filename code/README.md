@@ -74,4 +74,4 @@ text-decoration: none;
 Index of Code
 </div>
     
-alt="[DIR]" /> <a print="quadratic_lamda.py/">quadratic_lamda.py</a>
+alt="[DIR]" /> <a href="quadratic_lamda.py/">quadratic_lamda.py</a>
