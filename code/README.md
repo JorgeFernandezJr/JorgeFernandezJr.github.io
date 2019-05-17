@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>Index of /code/graphics</title>
+  <title>Index of Code</title>
  </head>
  <body>
-<h1>Index of /code/graphics</h1>
+<h1>Index of Code</h1>
 <pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[PARENTDIR]"> <a href="/code/ccode/">Parent Directory</a>                             -   
 <img src="/icons/text.gif" alt="[TXT]"> <a href="README.md">README.md</a>                                 
 <img src="/icons/text.gif" alt="[TXT]"> <a href="class_quadratic.py">class_quadratic.py</a>              
