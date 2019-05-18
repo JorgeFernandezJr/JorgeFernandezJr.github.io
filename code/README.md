@@ -13,7 +13,6 @@
 <img src="/icons/text.gif" alt="[TXT]"> <a href="quadratic_lamda.py">quadratic_lamda.py</a>       
 <img src="/icons/text.gif" alt="[TXT]"> <a href="camera.py">camera.py</a>        
 <img src="/icons/text.gif" alt="[TXT]"> <a href="plot_circle_loop.cpp">plot_circle_loop.cpp</a>  
-<img src="/icons/text.gif" alt="[DIR]"> <a href="camera.py">Camera Code/</a>
 
 <hr></pre>
 <pre><div class="list">
