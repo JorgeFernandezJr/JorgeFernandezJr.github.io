@@ -17,7 +17,7 @@
 <hr></pre>
 <pre><div class="list">
 
-#MATERIALS:
+#MATERIALS: Final project
 #Raspberry Pi Zero Wireless × 1 
 #Amazon Affiliate Link - https://goo.gl/Zsxm7k
 
