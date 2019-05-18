@@ -12,7 +12,9 @@
 <img src="/icons/text.gif" alt="[TXT]"> <a href="lamda2.py">lamda2.py</a>         
 <img src="/icons/text.gif" alt="[TXT]"> <a href="quadratic_lamda.py">quadratic_lamda.py</a>       
 <img src="/icons/text.gif" alt="[TXT]"> <a href="camera.py">camera.py</a>        
-<img src="/icons/text.gif" alt="[TXT]"> <a href="plot_circle_loop.cpp">plot_circle_loop.cpp</a>     
+<img src="/icons/text.gif" alt="[TXT]"> <a href="plot_circle_loop.cpp">plot_circle_loop.cpp</a>  
+<img src="/icons/text.gif" alt="[DIR]"> <a href="camera.py">Camera Code/</a>
+
 <hr></pre>
 <address>Apache/2.4.38 (Debian) Server at 10.183.1.26 Port 80</address>
 </body></html>
