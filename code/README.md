@@ -19,7 +19,7 @@
 
 #MATERIALS: Final project
 #Raspberry Pi Zero Wireless × 1 
-#Amazon Affiliate Link - https://goo.gl/Zsxm7k
+#https://www.adafruit.com/product/3400
 
 #Raspberry Pi Camera module × 1
 #Amazon Affiliate Link - https://goo.gl/4kR632
