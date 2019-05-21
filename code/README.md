@@ -40,6 +40,7 @@
 #8 X 3/4" Long Machine Screws × 1 
 #8 Hex Nut × 1 
 #8 Wing Nut × 1 
+#atom://teletype/portal/c80a4adc-4999-404b-9b0a-4a79d4657e43
 
 </div>
 </pre>
