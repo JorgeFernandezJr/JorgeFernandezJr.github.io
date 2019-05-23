@@ -65,6 +65,7 @@ Index of hello_countries
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="baby.jpg">photo%</a>
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="harry-potter.jpeg">photo&</a>
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="shower.jpg">photo@</a>
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="noah.txt">noah@</a>
 
 <hr></pre>
 
