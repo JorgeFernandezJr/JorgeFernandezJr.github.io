@@ -1,15 +1,3 @@
-<body>
-<div id="bg">
-<img style="display:block;" src="img/mtc.jpg">
-</div>
-<div id="content">
-
-</div>
-</body>
-
-
-
-
 <head><title>Index of hello_countries</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -55,10 +43,15 @@ a:hover{
 text-decoration: none;
 }
 
-
-</style>
-</head>
 <body>
+<div id="bg">
+<img style="display:block;" src="img/mtc.jpg">
+</div>
+<div id="content">
+
+</div>
+</body>
+	
 <div class="header">
 Index of hello_countries
 </div>
