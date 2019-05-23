@@ -42,7 +42,8 @@ a:hover{
 	font-weight: bold;
 text-decoration: none;
 }
-
+</style>
+</head>
 <body>
 <div id="bg">
 <img style="display:block;" src="img/mtc.jpg">
