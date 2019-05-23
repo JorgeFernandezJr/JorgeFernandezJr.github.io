@@ -63,7 +63,11 @@ text-decoration: none;
 Index of SVG
 </div>
 <pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/folder.gif" alt="[DIR]"> <a href="code/">code/</a>                   2018-11-30 12:38    -    
-<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">Flag</a>    
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">photo1</a>
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">photo2</a>    
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">photo3</a>    
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">photo4</a>    
+<img src="/icons/image2.gif" alt="[IMG]"> <a href="flag.txt">photo5</a>    
 
 <hr></pre>
 
