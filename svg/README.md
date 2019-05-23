@@ -46,7 +46,7 @@ text-decoration: none;
 </head>
 <body>
 <div id="bg">
-<img style="display:block;" src="img/SAO.jpg">
+<img style="display:block;" src="/img/SAO.jpg">
 </div>
 <div id="content">
 
