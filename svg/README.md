@@ -62,7 +62,7 @@ Index of hello_countries
 <img src="/img/flag2.png" alt="[IMG]" style = "height: 35px;"> <a href="2zt8cs.jpg">photoJ</a>    
 <img src="/img/flag7.png" alt="[IMG]" style = "height: 35px;"> <a href="2ztag7.jpg">photoK</a>    
 <img src="/img/flag5.png" alt="[IMG]" style = "height: 35px;"> <a href="racoon.jpg">photoA</a> 
-<img src="/img/flag3.2.png" alt="[IMG]" style = "height: 45px;"> <a href="baby.jpg">photo%</a>
+<img src="/img/flag3.png" alt="[IMG]" style = "height: 45px;"> <a href="baby.jpg">photo%</a>
 <img src="/img/flag6.png" alt="[IMG]" style = "height: 35px;"> <a href="harry-potter.jpeg">photo&</a>
 <img src="/img/flag1.png" alt="[IMG]" style = "height: 35px;"> <a href="shower.jpg">photo@</a>
 <img src="/icons/image2.gif" alt="[IMG]" style = "height: 35px;"> <a href="noah.txt">DON'T TOUCH</a>
