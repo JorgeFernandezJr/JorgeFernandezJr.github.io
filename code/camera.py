@@ -10,13 +10,14 @@ sleep(10)
 camera.stop_recording()
 camera.stop_preview()
 #to play the recorded video omxplayer video_name.h001
-
+----------------------------------------------------------------------------------------------------------
 # the code below is for pictures (comment out one section to use the other [//] [#])
 #camera.start_preview() 
 #sleep(10)
 #camera.capture('locations')
 #camera.stop_preview()
 
+-----------------------------------------------------------------------------------------------------------
 
 #MATERIALS:
 #Raspberry Pi Zero Wireless × 1 
