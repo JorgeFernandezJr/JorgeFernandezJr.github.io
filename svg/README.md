@@ -57,7 +57,7 @@ text-decoration: none;
 Index of hello_countries
 </div>
 <pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/folder.gif" alt="[DIR]"> <a href="code/">code/</a>                     
-<img src="/img/flag4.png" alt="[IMG]"> <a href="flag.txt">photoJ</a>
+<img src="/img/flag4.png" alt="[IMG]" style = "height: 50px;"> <a href="flag.txt">photoJ</a>
 <img src="/img/flag.png" alt="[IMG]"> <a href="2zt98v.jpg">photoS</a>    
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="2zt8cs.jpg">photoJ</a>    
 <img src="/icons/image2.gif" alt="[IMG]"> <a href="2ztag7.jpg">photoK</a>    
