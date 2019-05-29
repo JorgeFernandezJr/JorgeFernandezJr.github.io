@@ -2,11 +2,6 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title> Music </title>
 <style>
   
-body{ margin:0;
-  background-color: #00FF00 ;
-  color: #00FF00;
-  font-family: system-ui, sans-serif;
-  font-size: 24px;
 }
 </style>
   </head>
