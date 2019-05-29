@@ -2,6 +2,11 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title> Music </title>
 <style>
   
+ body{ margin:0;
+  background-color: #00FF00 ;
+  color: #00FF00;
+  font-family: system-ui, sans-serif;
+  font-size: 24px; 
 }
 </style>
   </head>
@@ -45,7 +50,7 @@
 Music
 
 </div>
-
+</pre>
 <a href="?C=N;O=D">Name</a>
 <a href="/">Parent Directory</a>                                 -   
 <alt="[SND]"> <a href="beethoven.mp3">beethoven.mp3</a>               2019-01-24 10:14   11M  
@@ -58,6 +63,6 @@ Music
 <hr>
 
 </div>
-
+</pre>
 
 </body></html>
