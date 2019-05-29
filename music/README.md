@@ -1,3 +1,38 @@
+</style>
+  </head>
+  <style type="text/css">
+   body {
+       margin:0; padding:0;
+       height: 2000px; /* Used to enable scrolling */
+   }
+   html, body, #bg {
+       height:100%;
+       width:100%;
+   }
+   #bg {
+       position: fixed;
+       left:0;
+       right:0;
+       bottom:0;
+       top:0;
+       overflow:hidden;
+       z-index:-1;
+   }
+   #bg img {
+       width:100%;
+       min-width:100%;
+       min-height:100%;
+   }
+   #content {
+       z-index:-1;
+   }
+</style>
+</head>
+<body>
+  <div id="bg">
+   <img style="display:block;" src="/img/kaneki.jpg">
+</div>
+
 <a href="?C=N;O=D">Name</a>
 <a href="/">Parent Directory</a>                                 -   
 <alt="[SND]"> <a href="beethoven.mp3">beethoven.mp3</a>               2019-01-24 10:14   11M  
