@@ -1,5 +1,5 @@
-<head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title> Music </title>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title> jorgefernandezjr.github.io </title>
 <style>
   
 body{ margin:0;
@@ -41,6 +41,9 @@ body{ margin:0;
 <body>
   <div id="bg">
    <img style="display:block;" src="/img/fun.jpg">
+</div>
+<div id="content">
+ 
 </div>
 
 <a href="?C=N;O=D">Name</a>
