@@ -30,7 +30,7 @@
 </head>
 <body>
   <div id="bg">
-   <img style="display:block;" src="/img/kaneki.jpg">
+   <img style="display:block;" src="/img/fun.jpg">
 </div>
 
 <a href="?C=N;O=D">Name</a>
