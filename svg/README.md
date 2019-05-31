@@ -1,4 +1,4 @@
-<head><title> flag{real} </title>
+<head><title> flag{jfj} </title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 html, body, #header {
